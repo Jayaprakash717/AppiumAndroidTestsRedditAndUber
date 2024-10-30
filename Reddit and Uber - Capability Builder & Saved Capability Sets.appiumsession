@@ -1,0 +1,62 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "object",
+      "name": "appium:deviceName",
+      "value": "JJP"
+    },
+    {
+      "type": "object",
+      "name": "appium:udid",
+      "value": "3084529408000P6"
+    },
+    {
+      "type": "object",
+      "name": "platformName",
+      "value": "Android"
+    },
+    {
+      "type": "text",
+      "name": "appium:platformVersion",
+      "value": "14"
+    },
+    {
+      "type": "object",
+      "name": "appium:automationName",
+      "value": "uiAutomator2"
+    },
+    {
+      "type": "object",
+      "name": "appium:appPackage",
+      "value": "com.ubercab"
+    },
+    {
+      "type": "object",
+      "name": "appium:appActivity",
+      "value": "com.ubercab.presidio.app.core.root.RootActivity"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {},
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {},
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {},
+    "remotetestkit": {},
+    "mobitru": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
